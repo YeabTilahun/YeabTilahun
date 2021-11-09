@@ -1,4 +1,4 @@
 - 👋 Hi, I’m yeabsira tilahun and am 21 years old.
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning software engineering at HiLCOE school of computer science and technology 
+- 🌱 I’m currently learning computer science at HiLCOE school of computer science and technology 
 - 📫 You can reach me through email  yeabsiratilahun78@gmail.com
