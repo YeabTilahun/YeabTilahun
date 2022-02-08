@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 ##A passionate Programmer at HiLCoE 
-![](https://komarev.com/ghpvc/?username=yeab-tilahun)
+-![](https://komarev.com/ghpvc/?username=yeab-tilahun)
 - 🔭 I’m currently working on my self
 - 🌱 I’m currently learning Computer Science
 - 😄 Pronouns: ...
