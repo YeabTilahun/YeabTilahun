@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Yeabsia</h1>
+<h1 align="left">Hi 👋, I'm Yeabsira</h1>
 <h3 align="left">A passionate Programmer at HiLCoE</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeab-tilahun" alt="yeab-tilahun" /> </p>
 - 🔭 I’m currently working on my self
