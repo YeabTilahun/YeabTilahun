@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Yeabsia</h1>
 <h3 align="left">A passionate Programmer at HiLCoE</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeab-tilahun)" alt="yeab-tilahun" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeab-tilahun" alt="yeab-tilahun" /> </p>
 - 🔭 I’m currently working on my self
 - 🌱 I’m currently learning Computer Science
 - ⚡ Fun fact: Google it you dont need me to tell you
