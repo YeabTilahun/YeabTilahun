@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 
 -->
 ![](https://komarev.com/ghpvc/?username=yeab-tilahun)
-![](https://komarev.com/ghpvc/?username=yeab-tilahun&label=PROFILE+VIEWS)
 My name is Yeabsira
 - 🔭 I’m currently working on my self
 - 🌱 I’m currently learning Computer Science
