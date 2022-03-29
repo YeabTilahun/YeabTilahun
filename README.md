@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/yeabsira-tilahun-55a580177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yeabsira-tilahun-55a580177/" height="30" width="40" /></a>
 </p>
 ----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeabsira-tilahun)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeab-tilahun)](https://github.com/anuraghazra/github-readme-stats)
 ----
 ## ሰላም ✌🏽, I'm Ged.
 <img align="right" width="320" height="280" src="https://raw.githubusercontent.com/GedionT/GedionT/master/mymoji.svg" alt="my bitmoji" />
@@ -27,6 +27,6 @@ __<div align="center">A Software Engineer</div>__
 
 ---
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=yeabsira-tilahun&count_private=true&show_icons=true&hide=stars&theme=tokyonight)
+![my github stats](https://github-readme-stats.vercel.app/api?username=yeab-tilahun&count_private=true&show_icons=true&hide=stars&theme=tokyonight)
 
 ----
