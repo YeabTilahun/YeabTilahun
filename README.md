@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Yeabsira</h1>
 <h3 align="left">A passionate Programmer at HiLCoE</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeab-tilahun" alt="yeab-tilahun" /> </p>
-- 🔭 I’m interested in AI
+- 🔭 I’m interested in AI and Web Dev
 - 🌱 I’m currently learning Computer Science
 <h3 align="left">Connect with me on Linkedin:</h3>
 <p align="left">
