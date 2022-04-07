@@ -10,6 +10,6 @@
 
 ---
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=yeab-tilahun&count_private=true&show_icons=true&hide=stars&theme=tokyonight)
+<!-- ![my github stats](https://github-readme-stats.vercel.app/api?username=yeab-tilahun&count_private=true&show_icons=true&hide=stars&theme=tokyonight) -->
 
 ----
