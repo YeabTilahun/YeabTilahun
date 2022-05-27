@@ -6,7 +6,7 @@ My name is Yeabsira and I'm a computer science student at HiLCoE. Here's some in
 - Incoming Software Engineer intern at Facebook/Meta [New York. Summer 2022] -->
 
 🔭 Current project: 
-- Ecommerce web app (Javascript, jQuery, HTML, CSS).
+- Ecommerce web app (Javascript, jQuery, HTML, CSS and PHP).
 
 🌱 Interests:
 - AI.
