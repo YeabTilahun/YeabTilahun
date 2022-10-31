@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Yeabsira and I'm a computer science student at HiLCoE. Here's some info about me!
-
+<img align="right" width=250px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <!-- ⚡ Work experience: <br>
 - Incoming Software Engineer intern at Facebook/Meta [New York. Summer 2022] -->
 
