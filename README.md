@@ -18,6 +18,7 @@ My name is Yeabsira and I'm a computer science student at HiLCoE. Here's some in
 ## GitHub Metrics
 
 ![GitHub metrics](https://metrics.lecoq.io/yeab-tilahun)
+<a href="https://metrics.lecoq.io/yeab-tilahun" src="https://metrics.lecoq.io/yeab-tilahun" alt"https://metrics.lecoq.io/yeab-tilahun"/></a>
 
 
 💬 Reach me by email or LinkedIn! yeabsiratilahun78@gmail.com | www.linkedin.com/in/yeabsira-tilahun-55a580177/
