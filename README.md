@@ -6,12 +6,12 @@ My name is Yeabsira and I'm a computer science student at HiLCoE. Here's some in
 - Incoming Software Engineer intern at Facebook/Meta [New York. Summer 2022] -->
 
 🔭 Current project: 
-- Missing-Person-Registration-and-Searching using ASP.NET Core MVC 
+- Missing-Person-Registration-and-Searching using Image (FaceRecognitiondotnet) ASP.NET Core MVC 
 
 🌱 Interests:
 - AI
 - ML
-- Web development
+- Backend development
 
 
 ## GitHub Metrics
