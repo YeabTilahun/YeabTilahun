@@ -6,17 +6,18 @@ My name is Yeabsira and I'm a computer science student at HiLCoE. Here's some in
 - Incoming Software Engineer intern at Facebook/Meta [New York. Summer 2022] -->
 
 🔭 Current project: 
-- Missing-Person-Registration-and-Searching using Image (FaceRecognitiondotnet) ASP.NET Core MVC 
+- Building my portfolio
 
 🌱 Interests:
+- Backend dev.
+- Mobile app dev.
+- Web dev.
 - AI
-- ML
-- Backend development
 
 
 ## GitHub Metrics
 
-![GitHub metrics](https://metrics.lecoq.io/yeab-tilahun)
+https://metrics.lecoq.io/yeab-tilahun
 <!-- <a href="https://metrics.lecoq.io/yeab-tilahun" src="https://metrics.lecoq.io/yeab-tilahun" alt"https://metrics.lecoq.io/yeab-tilahun"/></a> -->
 
 
