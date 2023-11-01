@@ -7,11 +7,11 @@ My name is Yeabsira and I'm a computer science student at HiLCoE. Here's some in
 
 🔭 Current project: 
 - Building my portfolio
+- LMS (.NET)
 
 🌱 Interests:
 - Backend dev.
 - Mobile app dev.
-- Web dev.
 - AI
 
 
