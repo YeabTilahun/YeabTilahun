@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![](https://visitcount.itsvg.in/api?id=YeabTilahun&icon=0&color=0)](https://visitcount.itsvg.in)
+[![wakatime](https://wakatime.com/badge/user/018cb42e-5a8c-4688-9df2-a9163add9b75.svg)](https://wakatime.com/@018cb42e-5a8c-4688-9df2-a9163add9b75)
+<!-- ![](https://komarev.com/ghpvc/?username=YeabTilahun)
 
 My name is Yeabsira and I'm a computer science student at HiLCoE. Here's some info about me!
 <img align="right" width=250px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
